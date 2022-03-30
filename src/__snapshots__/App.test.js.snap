@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapchot 1`] = `
+<div
+  className="App"
+>
+  <header
+    className="App-header"
+  >
+    <img
+      alt="logo"
+      className="App-logo"
+      src="logo.svg"
+    />
+    <p>
+      Edit 
+      <code>
+        src/App.js
+      </code>
+       and save to reload.
+    </p>
+    <a
+      className="App-link"
+      href="https://reactjs.org"
+      rel="noopener noreferrer"
+      target="_blank"
+    >
+      Learn React
+    </a>
+  </header>
+</div>
+`;
+
+exports[`snapshot of GitHubCard 1`] = `
+<div
+  className="card"
+>
+  <img
+    className="card-img"
+  />
+  <div
+    className="card-body"
+  >
+    <div
+      className="card-title h5"
+    >
+      Darius McClendon
+    </div>
+    <p
+      className="card-text"
+    >
+      The first lesson as a technician is to never trust a previous technician's work.
+    </p>
+  </div>
+</div>
+`;
